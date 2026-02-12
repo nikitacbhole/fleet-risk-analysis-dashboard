@@ -1,4 +1,5 @@
 ANT Trucks Fleet Risk Analytics and Management System
+
 Project Overview
 This project presents a comprehensive Big Data and Business Intelligence solution designed to optimize fleet management operations for ANT Trucks. The objective is to analyze fleet operational data to improve safety performance, reduce operational risk, enhance decision-making, and support strategic fleet optimization using advanced analytics and machine learning techniques.
 The solution integrates distributed data processing, relational data modeling, interactive dashboarding, and predictive modeling using both Python and R.
